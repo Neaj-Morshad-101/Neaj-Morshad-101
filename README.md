@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/neajashik" target="blank"><img src="https://img.shields.io/twitter/follow/neajashik?logo=twitter&style=for-the-badge" alt="neajashik" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, Git, Go, API Design, Docker, Kubernetes, Makefile, Helm, CRD, CRD-Controller, Prometheus**
+- 🌱 I’m currently learning **Linux, Git, Go, API Design, Docker, Kubernetes, Makefile, Helm, K8s-Controller, Prometheus**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Neaj-Morshad-101](https://github.com/Neaj-Morshad-101)
 
