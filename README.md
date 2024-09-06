@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/neajashik" target="blank"><img src="https://img.shields.io/twitter/follow/neajashik?logo=twitter&style=for-the-badge" alt="neajashik" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, Git, Go, API Design, Docker, Kubernetes, Makefile, Helm, K8s-Controller, Prometheus**
+- 🌱 I’m currently learning **Linux, Git, Go, API Design, Docker, Kubernetes, Microsoft SQL Server, Redis, Makefile, Helm, CRD, Custom Controller, Prometheus, Grafana**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Neaj-Morshad-101](https://github.com/Neaj-Morshad-101)
 
@@ -21,8 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neajashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neajashik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neaj-morshad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neaj-morshad/" height="30" width="40" /></a>
-<a href="https://fb.com/https://m.facebook.com/neajmorshad.ashik.cse.jnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/neajmorshad.ashik.cse.jnu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neaj-morshad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neaj-morshad/" height="30" width="40" /></a>
+<a href="https://m.facebook.com/neajmorshad.ashik.cse.jnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/neajmorshad.ashik.cse.jnu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@neajmorshadashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Neaj Morshad" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/neaj_morshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neaj_morshad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/neaj_morshad_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="neaj_morshad_101" height="30" width="40" /></a>
