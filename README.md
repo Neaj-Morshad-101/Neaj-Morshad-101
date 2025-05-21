@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neaj Morshad</h1>
 <h3 align="center">Software Engineer at Appscode Inc. | ICPC Asia West Finalist </h3>
-<h3 align="center">Golang, C/C++, SQL, Bash scripts</h3>
-<h3 align="center">Docker, Kubernetes, Prometheus, Grafana, Helm, Makefile, Raft, Kubebuilder, GKE/LKE, REST API</h3>
-<h3 align="center">Microsoft SQL Server, Redis, MySQL, ProxySQL, MariaDB</h3>
-<h3 align="center">Git, Github Actions, AWS/GCP</h3>
+<h3 align="center">Golang, C/C++, Docker, Kubernetes, SQL/NoSQL Database Systems (SQL Server, Redis, MySQL, ProxySQL, etc.), Prometheus, Grafana, Helm, REST API, Git, Github Actions, AWS/GCP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neaj-morshad-101&label=Profile%20views&color=0e75b6&style=flat" alt="neaj-morshad-101" /> </p>
 
