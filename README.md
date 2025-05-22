@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neaj-morshad-101&label=Profile%20views&color=0e75b6&style=flat" alt="neaj-morshad-101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neaj-morshad-101" alt="neaj-morshad-101" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Neaj-Morshad-101)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 - 🌱 I’m developing **cloud-native DevOps applications to provision and manage stateful apps on Kubernetes with any public or private clouds.**
 - 📄 Know about my experiences [https://www.linkedin.com/in/neaj-morshad/](https://www.linkedin.com/in/neaj-morshad/)
@@ -16,6 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neaj-morshad-101&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="neaj-morshad-101" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neaj-morshad-101&theme=gruvbox&title=-Stars,-Followers" alt="neaj-morshad-101" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
