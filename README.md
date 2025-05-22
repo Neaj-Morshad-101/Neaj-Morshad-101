@@ -9,7 +9,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/neaj-morshad/](https://www.linkedin.com/in/neaj-morshad/)
 - 📫 How to reach me? shoot an email at **neajmorshad.ashik101@gmail.com**
 
-![Metrics](https://github.com/yourusername/yourusername/blob/master/github-metrics.svg)
+![Metrics](https://github.com/neaj-morshad-101/neaj-morshad-101/blob/master/github-metrics.svg)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neaj-morshad-101&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="neaj-morshad-101" /></p>
