@@ -11,12 +11,9 @@
 <p align="left"> <a href="https://x.com/Neaj_Morshad" target="blank"><img src="https://img.shields.io/twitter/follow/neajashik?logo=twitter&style=for-the-badge" alt="Neaj_Morshad" /></a> </p>
 
 - 🌱 I’m developing **cloud-native DevOps applications to provision and manage stateful apps on Kubernetes with any public or private clouds.**
-
-- 👨‍💻 Some of my projects are available at [https://github.com/Neaj-Morshad-101](https://github.com/Neaj-Morshad-101)
-
+- 📄 Know about my experiences [https://www.linkedin.com/in/neaj-morshad/](https://www.linkedin.com/in/neaj-morshad/)
 - 📫 How to reach me **neajmorshad.ashik101@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/neaj-morshad/](https://www.linkedin.com/in/neaj-morshad/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
