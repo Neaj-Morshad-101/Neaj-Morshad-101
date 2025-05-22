@@ -8,11 +8,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Neaj-Morshad-101)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="left"> <a href="https://x.com/Neaj_Morshad" target="blank"><img src="https://img.shields.io/twitter/follow/neajashik?logo=twitter&style=for-the-badge" alt="Neaj_Morshad" /></a> </p>
-
 - 🌱 I’m developing **cloud-native DevOps applications to provision and manage stateful apps on Kubernetes with any public or private clouds.**
 - 📄 Know about my experiences [https://www.linkedin.com/in/neaj-morshad/](https://www.linkedin.com/in/neaj-morshad/)
 - 📫 How to reach me **neajmorshad.ashik101@gmail.com**
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neaj-morshad-101&show_icons=true&locale=en" alt="neaj-morshad-101" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,6 +25,3 @@
 <a href="https://www.youtube.com/@neajmorshadashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Neaj Morshad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/neaj_morshad_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="neaj_morshad_101" height="30" width="40" /></a>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neaj-morshad-101&show_icons=true&locale=en" alt="neaj-morshad-101" /></p>
