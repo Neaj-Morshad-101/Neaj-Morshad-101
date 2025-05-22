@@ -14,7 +14,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neaj-morshad-101&show_icons=true&locale=ena&count_private=true&include_all_commits=true" alt="neaj-morshad-101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neaj-morshad-101&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="neaj-morshad-101" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
