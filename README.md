@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neaj-morshad-101&label=Profile%20views&color=0e75b6&style=flat" alt="neaj-morshad-101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neaj-morshad-101" alt="neaj-morshad-101" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Neaj-Morshad-101)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <a href="https://x.com/Neaj_Morshad" target="blank"><img src="https://img.shields.io/twitter/follow/neajashik?logo=twitter&style=for-the-badge" alt="Neaj_Morshad" /></a> </p>
 
