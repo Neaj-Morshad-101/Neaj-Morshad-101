@@ -1,6 +1,6 @@
 # Hi, I'm Neaj Morshad 👋
 
-**Staff Software Engineer at [AppsCode](https://appscode.com/)** (DevOps team) · Kubernetes · Go · Distributed systems · Dhaka, Bangladesh
+**Staff Software Engineer @[AppsCode](https://appscode.com/)** • Backend & Distributed Systems • DevOps • Go • Kubernetes • Databases • Cloud-Native Platforms • AI Infrastructure & Reliability
 
 I build, operate and improve production infrastructure: Kubernetes operators, database automation and the platforms that keep stateful systems running.
 
